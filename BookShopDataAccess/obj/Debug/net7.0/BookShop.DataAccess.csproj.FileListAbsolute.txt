@@ -1,0 +1,34 @@
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.deps.json
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.runtimeconfig.json
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.pdb
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\bin\Debug\net7.0\BookShop.Models.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\bin\Debug\net7.0\BookShop.Models.pdb
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.AssemblyInfo.cs
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.csproj.CopyComplete
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\refint\BookShop.DataAccess.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.pdb
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.genruntimeconfig.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShopDataAccess\obj\Debug\net7.0\ref\BookShop.DataAccess.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.deps.json
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.runtimeconfig.json
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\bin\Debug\net7.0\BookShop.DataAccess.pdb
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\bin\Debug\net7.0\BookShop.Models.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\bin\Debug\net7.0\BookShop.Models.pdb
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.AssemblyInfo.cs
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.csproj.CopyComplete
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\refint\BookShop.DataAccess.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.pdb
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\BookShop.DataAccess.genruntimeconfig.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShopDataAccess\obj\Debug\net7.0\ref\BookShop.DataAccess.dll

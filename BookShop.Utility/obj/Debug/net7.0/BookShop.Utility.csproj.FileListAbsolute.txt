@@ -1,0 +1,24 @@
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\bin\Debug\net7.0\BookShop.Utility.deps.json
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\bin\Debug\net7.0\BookShop.Utility.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\bin\Debug\net7.0\BookShop.Utility.pdb
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.csproj.AssemblyReference.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.AssemblyInfoInputs.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.AssemblyInfo.cs
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\refint\BookShop.Utility.dll
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.pdb
+C:\Users\anous\Desktop\BookShopOnline\BookShop.Utility\obj\Debug\net7.0\ref\BookShop.Utility.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\bin\Debug\net7.0\BookShop.Utility.deps.json
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\bin\Debug\net7.0\BookShop.Utility.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\bin\Debug\net7.0\BookShop.Utility.pdb
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.csproj.AssemblyReference.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.AssemblyInfoInputs.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.AssemblyInfo.cs
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\refint\BookShop.Utility.dll
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\BookShop.Utility.pdb
+C:\Users\anous\source\repos\BookShopOnline - GitHub 2\BookShop.Utility\obj\Debug\net7.0\ref\BookShop.Utility.dll
